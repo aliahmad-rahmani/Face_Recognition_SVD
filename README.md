@@ -1,2 +1,2 @@
-# Face_Recognition_SVD
-Develop and implement face recognition using SVD and the Yale B database
+# Face Recognition Using PCA and  Wavelet Transform
+Develop and implement face recognition using PCA, Wavelet Transform and the Yale B database
